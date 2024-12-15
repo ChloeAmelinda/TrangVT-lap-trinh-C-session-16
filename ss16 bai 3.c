@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int sumnumber();
+	int tong();
 	int arr[100]={1,2};
 	int *ptr = arr;
 	int x = *ptr;
